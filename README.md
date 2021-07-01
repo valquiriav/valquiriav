@@ -5,4 +5,4 @@ Hi there!
 - 📫 To reach me just send an email to valqviria@gmail.com!
 - She/her
 
-original.gif![original](https://user-images.githubusercontent.com/49369092/124190007-f62d1a80-da97-11eb-839b-cb901934e16f.gif)
+[original](https://user-images.githubusercontent.com/49369092/124190007-f62d1a80-da97-11eb-839b-cb901934e16f.gif)
