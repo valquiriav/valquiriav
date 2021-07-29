@@ -1,6 +1,12 @@
-Hi there!
+Hello there!
 
-- 🌱 I’m currently learning Java Development at Let's Code
-- 👯 I’m looking to collaborate on game development
-- 📫 To reach me just send an email to valqviria@gmail.com!
-- She/her
+- Java Developer in training at Let's Code
+- Passionate about Sustainable Solutions for People and the Environment
+- Game Dev Enthusiast
+- Love a good blend of Tech, Design and Storytelling
+
+  /ᐠ‸⑅‸ ᐟ\ﾉ
+
+- To reach me just send an email to valqviria@gmail.com!
+
+ —ฅ/ᐠ. ̫ .ᐟ\ฅ —
