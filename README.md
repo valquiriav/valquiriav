@@ -8,3 +8,4 @@ Hello there!
   /ᐠ‸⑅‸ ᐟ\ﾉ
 
 - To reach me just send an email to valqviria@gmail.com!
+- English, Portuguese and German
