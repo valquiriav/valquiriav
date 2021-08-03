@@ -16,7 +16,8 @@ Hi!
 - English, Portuguese and German
 - She/her
 
-
+<br>
+<br>
 
 <div>
   <a href="https://github.com/valquiriav">
