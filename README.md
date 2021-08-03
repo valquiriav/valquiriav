@@ -14,3 +14,4 @@ Hi!
 - She/her
   
  
+![Snake animation](https://github.com/valquiriav/valquiriav/blob/output/github-contribution-grid-snake.svg)
