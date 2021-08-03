@@ -16,6 +16,8 @@ Hi!
 - English, Portuguese and German
 - She/her
 
+
+
 <div>
   <a href="https://github.com/valquiriav">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=valquiriav&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
