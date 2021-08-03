@@ -10,3 +10,5 @@ Hello there!
 - To reach me just send an email to valqviria@gmail.com!
 - English, Portuguese and German
 - She/her
+
+![Coding Magic](https://i.pinimg.com/originals/13/ad/68/13ad68983c62a06016db3beb417882ec.gif)
