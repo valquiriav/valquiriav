@@ -1,4 +1,4 @@
-![Coding Magic](https://i.pinimg.com/originals/13/ad/68/13ad68983c62a06016db3beb417882ec.gif)
+<img align="right" alt="CodeMagic" src="https://i.pinimg.com/originals/13/ad/68/13ad68983c62a06016db3beb417882ec.gif">
 
 Hi!
 
