@@ -8,6 +8,7 @@ Hi!
 - Passionate about Sustainable Solutions for People and the Environment
 - Game Dev Enthusiast
 - Love a good blend of Tech, Design and Storytelling
+- Take a look at my [LinkedIn!](https://www.linkedin.com/in/valquiriav/)
 
   /ᐠ‸⑅‸ ᐟ\ﾉ
 
