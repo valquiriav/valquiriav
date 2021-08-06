@@ -2,7 +2,7 @@
   
   <img align="right" alt="CodeMagic" src="https://i.pinimg.com/originals/13/ad/68/13ad68983c62a06016db3beb417882ec.gif">
 
-Hi!
+# _**Hi! Don't mind the mess.**_
 
 - I'm a Java Developer in training at [Let´s Code](https://www.linkedin.com/school/letscodebr/) 
 - Passionate about Sustainable Solutions for People and the Environment
