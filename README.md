@@ -20,6 +20,7 @@
 <div style="display: inline_block"><br>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img alt=“Spring” src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="Coffee" src="https://www.pinclipart.com/picdir/middle/552-5524859_kawaii-cute-rabbit-cup-coffee-molang-gif-transparent.png">
 </div>
 
 <br>
