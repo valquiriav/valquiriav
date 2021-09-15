@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img alt=“Spring” src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="right" alt="RubberDuck" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPixelArt%2Fcomments%2F88lbn7%2Foc_cc_rubber_duck_animation%2F&psig=AOvVaw3GhjKTWeCPaYlv-z7uj1vx&ust=1631819114248000&source=images&cd=vfe&ved=2ahUKEwigsrSG1oHzAhXQuKQKHZ5YA3EQjRx6BAgAEAk">
+  <img align="right" alt="RubberDuck" src="https://i.redd.it/j221odxep5p01.gif">
 
   
 </div>
