@@ -4,7 +4,7 @@
 
 # _**Hi!**_
 
-- I'm a Java Developer in training at [Let´s Code](https://www.linkedin.com/school/letscodebr/) 
+- I'm a Backend Mobile Dev at Empiricus Research
 - Passionate about Sustainable Solutions for People and the Environment
 - Game Dev Enthusiast
 - Love a good blend of Tech, Design and Storytelling
