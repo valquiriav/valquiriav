@@ -4,7 +4,7 @@
 
 # _**Hi!**_
 
-- I'm an Android Dev at Empiricus Research
+- I'm an Android Dev
 - Passionate about Sustainable Solutions for People and the Environment
 - Game Dev Enthusiast
 - Love a good blend of Tech, Design and Storytelling
