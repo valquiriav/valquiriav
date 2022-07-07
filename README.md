@@ -33,8 +33,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valquiriav&layout=compact&langs_count=7&theme=buefy"/>
 </div>
   
- 
-![Snake animation](https://github.com/valquiriav/valquiriav/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <img align="right" alt="RubberDuck" src="https://i.redd.it/j221odxep5p01.gif">
