@@ -4,7 +4,7 @@
 
 # _**Hi!**_
 
-- Android Dev
+- Backend/Android Dev
 - Passionate about Sustainable Solutions for People and the Environment
 - Game Dev Enthusiast
 - Love a good blend of Tech, Design and Storytelling
