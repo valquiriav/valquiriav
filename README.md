@@ -4,15 +4,16 @@
 
 # _**Hi!**_
 
-- Android Dev
+- I'm a backend and mobile developer with experience in developing APIs in Java and Kotlin, as well as mobile applications for Android native
+- I develop games in Unity using C#
+  
 - Passionate about Sustainable Solutions for People and the Environment
-- Game Dev Enthusiast
 - Love a good blend of Tech, Design and Storytelling
 - Take a look at my [LinkedIn!](https://www.linkedin.com/in/valquiriav/)
 
   /ᐠ‸⑅‸ ᐟ\ﾉ
 
-- To reach me just send an email to valqviria@gmail.com
+- To reach me just send an email to valvitoli@gmail.com
 - English, Portuguese and German
 - She/her
 
